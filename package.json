@@ -1,0 +1,22 @@
+{
+  "name": "design-patterns-frontend",
+  "version": "1.0.0",
+  "description": "Design Patterns for Frontend Development",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahrin014/design-patterns-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahrin014/design-patterns-frontend/issues"
+  },
+  "homepage": "https://github.com/shahrin014/design-patterns-frontend#readme"
+}
