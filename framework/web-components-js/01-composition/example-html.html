@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <script type="module">
+            import { WcJsButton } from './src/wc-js-button.js'
+            let customElementRegistry = window.customElements;
+            customElementRegistry.define('wc-js-button', WcJsButton)
+        </script>
+    </head>
+    <body>
+        <wc-js-button></wc-js-button>
+    </body>
+</html>

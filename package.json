@@ -7,6 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
+    "run": "npx live-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shahrin014/design-patterns-frontend/issues"
   },
-  "homepage": "https://github.com/shahrin014/design-patterns-frontend#readme"
+  "homepage": "https://github.com/shahrin014/design-patterns-frontend#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
